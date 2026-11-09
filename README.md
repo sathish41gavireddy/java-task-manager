@@ -146,7 +146,3 @@ On Mac or Linux, use single quotes around the JSON. You can also use Postman.
 - [ ] Replace `TestRunner` with **JUnit 5** and add Maven or Gradle
 - [ ] Add authentication, pagination and logging
 - [ ] Add Docker and a GitHub Actions workflow
-
-## Author
-**Gavireddi Sathish**, MCA graduate | Bengaluru
-[LinkedIn](https://www.linkedin.com/in/gavireddi-sathish-3258402b5/) | [GitHub](https://github.com/sathish41gavireddy) | gavireddisathish41@gmail.com
